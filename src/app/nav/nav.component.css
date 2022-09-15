@@ -1,0 +1,14 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+section {
+    margin-top: 10rem;
+}
+
+a {
+    width: 400px;
+}
